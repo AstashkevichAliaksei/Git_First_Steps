@@ -18,3 +18,5 @@ hello, Spock
 Line for commit
 
 line for remote repository
+
+line from new User
