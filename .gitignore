@@ -1,0 +1,7 @@
+﻿# Folder with logs
+logs/
+
+# Some txt files
+docs/*.txt
+
+pic/*.txt
